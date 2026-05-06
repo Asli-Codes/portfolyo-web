@@ -29,7 +29,13 @@
                 description: "ASP.NET Core Web API ile Kandilli Rasathanesi’nin HTML formatındaki canlı deprem verilerini HttpClient ve HtmlAgilityPack kullanarak JSON çıktısına dönüştüren, Swagger UI üzerinden test edilebilen açık bir API projesi.",
                 tags: ["C#" , "ASP.NET Core Web API", "HtmlAgilityPack", "HttpClient", "Swagger"],
                 repo: "https://github.com/Asli-Codes/MicroServices"
-            }
+            },
+            {
+                title: "AssistantAshley",
+                description: "Python ile geliştirilmiş, sesli komut işleme, konuşma tanıma ve metinden sese dönüştürme özelliklerine sahip kişisel yapay zekâ asistanı projesi.",
+                tags: ["pyttsx3" , "Vosk", "JSON", "NLP", "Streamlit", "Python"],
+                repo: "https://github.com/Asli-Codes/AssistantAshley"
+             }
         ];
 
         // Render Projects
